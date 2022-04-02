@@ -1,0 +1,30 @@
+Git commands
+
+cd /directory ->for change directory
+
+cd foldername -> for go to folder
+
+configure git for first time
+
+1. git config --global user.name "Deepak kadam"
+2. git config --global user.email "deepkk@testrig.co.in"
+
+check username and email
+
+1. git config user.name
+2. git config user.email
+
+how to create normal folder to git repository
+
+1. git init -> 
+
+2. git status -> for checking status
+
+3. git add --a -> for adding/staging all files
+
+4. git add filename -> for adding/staging specific file
+
+5. git commit -m "message" -> for commit the files
+
+6. git rm -rf -> for delete git repository
+
