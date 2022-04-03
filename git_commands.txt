@@ -7,7 +7,7 @@ cd foldername -> for go to folder
 configure git for first time
 
 1. git config --global user.name "Deepak kadam"
-2. git config --global user.email "deepkk@testrig.co.in"
+2. git config --global user.email "deepakk@testrig.co.in"
 
 check username and email
 
