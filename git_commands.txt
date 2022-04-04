@@ -28,3 +28,5 @@ how to create normal folder to git repository
 
 6. git rm -rf -> for delete git repository
 
+7. git push -> for push the code
+8. git pull -> for pull code
